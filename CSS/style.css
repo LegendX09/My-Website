@@ -1,0 +1,153 @@
+body {
+  background-color: #def5e5;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  width: 37%;
+  font-size: 4.8rem;
+  margin: 0 auto 0 auto;
+  color: #025a4e;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  width: 37%;
+  margin: 0 auto 0 auto;
+  color: #025a4e;
+  margin-top: 0;
+}
+
+.top-container {
+  background-color: #def5e5;
+  position: relative;
+  font-family: Candara, Calibri, Segoe, Segoe UI;
+  padding-top: 100px;
+}
+
+.profile-desc {
+  color: #025a4e;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.cloud1 {
+  position: absolute;
+  height: 150px;
+  width: 200px;
+  right: 150px;
+  top: 12px;
+}
+
+.cloud2 {
+  position: absolute;
+  height: 150px;
+  width: 200px;
+  left: 170px;
+  top: 170px;
+}
+
+.profile-img {
+  height: 165px;
+}
+
+hr {
+  width: 5%;
+  margin: 0 auto;
+  border-top: 5.4px dotted #609966;
+}
+
+.middle-conatiner {
+  margin-top: 25px;
+  position: static;
+  background-color: #def5e5;
+  font-family: Candara, Calibri, Segoe, Segoe UI;
+}
+
+.skill-row {
+  /* background-color: aliceblue; */
+  width: 80%;
+  margin: auto;
+  position: relative;
+}
+
+.h3-skills {
+  color: #025a4e;
+  margin-top: 10px;
+  padding-top: 168px;
+}
+
+.webdev-heading {
+  display: inline-block;
+  position: relative;
+  right: 149px;
+}
+
+.python-heading {
+  display: inline-block;
+  position: relative;
+  right: 19px;
+}
+
+.c-heading {
+  display: inline-block;
+  position: relative;
+  left: 132px;
+}
+
+.developer {
+  position: absolute;
+  left: 200px;
+  width: 170px;
+}
+
+.python {
+  position: absolute;
+  left: 400px;
+  width: 170px;
+}
+
+.c {
+  position: absolute;
+  left: 600px;
+  width: 170px;
+}
+
+.my-projects {
+  width: 90%;
+  margin: 10px auto;
+}
+
+.bot {
+  margin-top: 10px;
+  height: 154px;
+  border-radius: 100%;
+}
+
+.bot-heading {
+  margin-top: 8px;
+  color: #025a4e;
+}
+
+.bottom-container {
+  margin-top: 20px;
+}
+
+.img {
+  margin-top: 18px;
+  width: 40px;
+  margin-right: 10px;
+}
+
+.footer {
+  margin: 0;
+  height: 29px;
+}
+
+.p-footer {
+  padding-top: 6px;
+  color: #025a4e;
+  font-family: Candara, Calibri, Segoe, Segoe UI;
+}
